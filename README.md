@@ -3,4 +3,4 @@
 * [CMYK](https://lidiafayostormo.github.io/cmyk/)
 * [Broom](https://lidiafayostormo.github.io/broom/)
 * [Autor](https://lidiafayostormo.github.io/autor/)
-* [Tarjetes](https://lidiafayostormo.github.io/targetesflexbox/)
+* [Tarjetes](https://lidiafayostormo.github.io/tarjetesflexbox/)
