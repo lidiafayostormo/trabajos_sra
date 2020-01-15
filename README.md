@@ -6,3 +6,4 @@
 * [Tarjetes](https://lidiafayostormo.github.io/tarjetesflexbox/)
 * [Moma](https://lidiafayostormo.github.io/moma/)
 * [Mondrian](https://lidiafayostormo.github.io/mondrian/)
+* [Grid areas](https://lidiafayostormo.github.io/gridareas/)
